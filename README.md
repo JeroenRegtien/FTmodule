@@ -16,7 +16,7 @@ Supported Shields: Dicacta UNO, Didacta MEGA, Adafruit Motorshield, ftNano shiel
 Supported Arduino's: UNO R3, UNO R4 (Minima/Wifi), MEGA, Nano
  
  The library consists of two files:
- 1) FTmodule.h - header file for the FTmodule, FTcontroller and FTtimer class 
+ 1) FTmodule.h - header file for the FTlegacy, FTcontroller, FTstepper, FTencoder and FTtimer classes
  2) FTmodule.cpp - C++ implementation of class, methods and utility functions
  
  References:
