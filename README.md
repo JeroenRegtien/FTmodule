@@ -17,6 +17,7 @@ Supported Arduino's: UNO R3, UNO R4 (Minima/Wifi), MEGA, Nano
  
  The library consists of two files:
  FTmodule.h - header file for the FTmodule, FTcontroller and FTtimer class 
+ 
  FTmodule.cpp - C++ implementation of class, methods and utility functions
  
  References:
